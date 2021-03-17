@@ -30,4 +30,4 @@ pydub==0.25.1
 Rockyviiv5:10 PM
 reportlab==3.5.65
 secure-smtplib==0.1.1
-moviepy==0.3
+moviepy==1.0.3
