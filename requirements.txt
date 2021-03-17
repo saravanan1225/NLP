@@ -27,7 +27,6 @@ nltk==3.5
 praat-parselmouth==0.4.0
 PyAudio==0.2.11
 pydub==0.25.1
-Rockyviiv5:10 PM
 reportlab==3.5.65
 secure-smtplib==0.1.1
 moviepy==1.0.3
