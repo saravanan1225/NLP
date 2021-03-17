@@ -29,5 +29,4 @@ PyAudio==0.2.11
 pydub==0.25.1
 reportlab==3.5.65
 secure-smtplib==0.1.1
-textblob==0.15.3
 urllib3==1.26.3
