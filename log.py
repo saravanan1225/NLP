@@ -4,10 +4,6 @@ import pandas as pd
 import hashlib
 import sqlite3
 import numpy as np
-
-
-
-from textblob import TextBlob
 import contextlib
 import wave
 import math
