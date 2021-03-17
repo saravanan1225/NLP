@@ -12,9 +12,7 @@ from scipy.io import wavfile
 import matplotlib.pyplot as plt
 import moviepy.editor
 import os
-from googletrans import Translator
 import librosa
-mysp=__import__("my-voice-analysis")
 import librosa.display
 from tqdm import tqdm
 import IPython.display as ipd
