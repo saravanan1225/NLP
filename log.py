@@ -4,8 +4,8 @@ import pandas as pd
 import hashlib
 import sqlite3
 import numpy as np
-#import speech_recognition as sr
-#import speech_recognition as sp
+
+
 import paralleldots
 from textblob import TextBlob
 import contextlib
