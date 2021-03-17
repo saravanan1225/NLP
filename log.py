@@ -6,7 +6,7 @@ import sqlite3
 import numpy as np
 
 
-import paralleldots
+
 from textblob import TextBlob
 import contextlib
 import wave
