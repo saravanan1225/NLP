@@ -2,7 +2,6 @@ streamlit==0.78.0
 pandas==1.2.3
 tqdm==4.57.0
 db-sqlite3==0.0.1
-textblob==0.15.3
 Wave==0.0.2
 SoundFile==0.10.3.post1
 SpeechRecognition==3.8.1
