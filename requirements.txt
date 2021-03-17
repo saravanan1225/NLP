@@ -1,5 +1,4 @@
-Package                Version
----------------------- ------------
+
 altair                 4.1.0
 antiorm                1.2.1
 appdirs                1.4.4
